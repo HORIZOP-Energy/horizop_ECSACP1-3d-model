@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-24112022-033012";"";
+"REFERENCE";"NL210";"";
+"TraceParts.PartTitle";"NL210 Residual Current Operated Circuit Breaker without Over-current Protection NL210";"";
+"TraceParts.InstanceId";"90-24112022-0330125KLW1TIB0ELNI2HMKHKJKYKRJ";"";
+"SUPPLIER";"CHINT Electrics";"";
+"DESIGN";"NL210 Residual Current Operated Circuit Breaker without Over-current Protection NL210";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
